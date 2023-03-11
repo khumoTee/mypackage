@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: htts://github.com/<username>/<package-name>
+Author: <Your name>
+Author-email: <Your Email>
+License: MIT
+Requires: numpy
+
+## Provide all the documentation need to understand how to use your package
